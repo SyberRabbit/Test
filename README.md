@@ -1,6 +1,6 @@
 # 求助 / 补充：北京移动大内网下，DMIT 自建节点「用谁掐谁」
 
-> 前几天的初版：[SyberRabbit/Test README](https://raw.githubusercontent.com/SyberRabbit/Test/refs/heads/main/README.md)
+> 前几天的初版：[SyberRabbit/Test README](https://raw.githubusercontent.com/SyberRabbit/Test/refs/heads/main/README1.md)
 >
 > 本文是 **2026-09-15 上午** 在同一出口上的补充实测。初版把「ICMP 全通 + TCP 全端口超时」读成对端机房路由环路；今天的对照说明那条判断需要修正。
 >
